@@ -1,0 +1,4 @@
+arrow
+boto3
+faker
+pyspark==3.2.3
